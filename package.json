@@ -2,7 +2,7 @@
   "name": "json-compactor",
   "module": "src/index.ts",
   "description": "Library for compressing a bunch of JSON data into one compressed file, improving load time.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "bun",
     "bunjs",
