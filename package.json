@@ -1,7 +1,7 @@
 {
   "name": "json-compactor",
   "module": "src/index.ts",
-  "description": "<fill in description>",
+  "description": "Library for compressing a bunch of JSON data into one compressed file, improving load time.",
   "version": "1.0.1",
   "keywords": [
     "bun",
@@ -15,9 +15,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacklehamster/json-compactor.git"
+    "url": "git@github.com:jacklehamster/json-compactor.git"
   },
-  "homepage": "<fill in homepage>",
+  "homepage": "https://jacklehamster.github.io/json-compactor/",
   "author": {
     "name": "Jack Le Hamster",
     "email": "jacklehamster@gmail.com"
@@ -68,6 +68,7 @@
     "blueimp-md5": "^2.19.0",
     "cross-fetch": "^4.0.0",
     "fflate": "^0.8.2",
+    "js-yaml": "^4.1.0",
     "stream-data-view": "^1.7.2"
   }
 }
