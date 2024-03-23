@@ -1,10 +1,10 @@
-# bun-template
+# json-compactor
 
-[![npm version](https://badge.fury.io/js/bun-template.svg)](https://www.npmjs.com/package/bun-template)
+[![npm version](https://badge.fury.io/js/json-compactor.svg)](https://www.npmjs.com/package/json-compactor)
 
-Bun template for creating projects using bunjs
+Package for compressing json.
 
-![](https://jacklehamster.github.io/bun-template/icon.png)
+![](https://jacklehamster.github.io/json-compactor/icon.png)
 ## Install bun
 
 https://bun.sh/
@@ -20,8 +20,8 @@ curl -fsSL https://bun.sh/install | bash
 
 ## Run example
 
-[https://jacklehamster.github.io/bun-template/example/](https://jacklehamster.github.io/bun-template/example/)
+[https://jacklehamster.github.io/json-compactor/example/](https://jacklehamster.github.io/json-compactor/example/)
 
 ## Github Source
 
-[https://github.com/jacklehamster/bun-template/](https://github.com/jacklehamster/bun-template/)
+[https://github.com/jacklehamster/json-compactor/](https://github.com/jacklehamster/json-compactor/)
